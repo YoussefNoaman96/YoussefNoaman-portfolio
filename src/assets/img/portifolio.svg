@@ -1,0 +1,7 @@
+<!-- save as portifolio-simple.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="80" viewBox="0 0 400 80" role="img" aria-labelledby="title">
+  <title id="title">Portifolio</title>
+  <text x="0" y="60" font-family="Inter, Arial, Helvetica, sans-serif" font-size="56" font-weight="600" fill="#ffffff">
+    Portifolio
+  </text>
+</svg>
